@@ -46,7 +46,7 @@ The following methods are available for the respective classes:
 ![Entity Relationship Diagram](https://raw.githubusercontent.com/mich785/Active-record-code-challenge/ba2a0d778eb5208f2c21ed3239466b62e6b42037/Untitled%20Diagram.drawio.png?token=A6FT7EVWNXMDBDWZ3YGWYZ3EPUEIO)
 
 ## License
-This project is licensed under the GNU License.
+This project is licensed under the GNU License
 
 
 
